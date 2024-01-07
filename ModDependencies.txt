@@ -1,0 +1,5 @@
+ItemChanger
+Randomizer 4
+MenuChanger
+RandomizerCore
+RandoSettingsManager
